@@ -1,0 +1,32 @@
+.createPostForm {
+	display: flex;
+	flex-direction: column;
+	margin-top: 30px;
+}
+
+.createPostForm input {
+	width: 200px;
+	border-radius: 20px;
+	padding: 8px;
+	border: none;
+	outline: none;
+	background-color: rgb(243, 228, 228);
+	margin: 12px auto;
+}
+
+.createPostForm button {
+	width: 60px;
+	border-radius: 10px;
+	padding: 8px;
+	outline: none;
+	border: none;
+	background-color: rgb(243, 228, 228);
+	margin: 0 auto;
+	cursor: pointer;
+}
+
+.createPost {
+	text-align: center;
+	margin-top: 100px;
+}
+
